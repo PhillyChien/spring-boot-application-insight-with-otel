@@ -32,6 +32,9 @@ build/
 ### VS Code ###
 .vscode/
 
+### Mac OS ###
+.DS_Store
+
 ### Custom: Application insights Java Agent ###
 applicationinsights-agent-3.6.2.jar
 applicationinsights.json
