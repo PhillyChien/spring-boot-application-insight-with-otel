@@ -1,0 +1,16 @@
+{
+  "connectionString": "InstrumentationKey=1a1c79ec-f660-49ce-b900-9e67cac2ec79;IngestionEndpoint=https://canadaeast-0.in.applicationinsights.azure.com/;ApplicationId=7003877e-05e9-4ad5-b9a1-eec5bb97ce9e",
+  "role": {
+    "name": "Philly, Chien playground 007"
+  },
+  "preview": {
+    "captureHttpServer4xxAsError": false
+  },
+  "heartbeat": {
+    "intervalSeconds": 30
+  },
+  "selfDiagnostics": {
+    "destination": "console",
+    "level": "INFO"
+  }
+}
